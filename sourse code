@@ -1,0 +1,119 @@
+<!doctype html>
+<html>
+	<head>
+		<title>partical accelerators </title>
+	<style>
+		* {
+			box-sizing: border-box;
+  
+		}
+		.column {
+			float: left;
+			width: 33.33%;
+			padding: 5px;
+		}	/* Clearfix (clear floats) */
+		.row::after {
+			content: "";
+			clear: both;
+			display: table;
+			}
+		body {
+			background-color: rgb(217,217,217);
+			text-align: center;
+		}
+		h1 {
+			color: rgb(0,0,0);
+			text-align: center;
+			text-transform: uppercase;
+		}
+		.name {
+			text-align: center;
+			
+		}
+		div.indent {text-indent: 50px;}
+		
+		div.a {
+		text-align: left;
+		
+		}
+		div.b {
+		text-align: right;
+		}
+		.size {
+			font-size: 150%;
+			color: rgb(0,0,255);
+			
+		div.size2 {
+				font-size: 50%;
+				{
+			
+	}
+		
+	</style>
+	</head>
+	<body>
+
+	<h1>partical accelerators<sup><sup>&copy;</sup></sup></h1><hr />
+	<h4 class="name"><u>by Ben</u></h4>
+	<p><div class=indent>Partical accelerators are big tubes made for discovering what is inside if an atom.</div>
+But the question is how do we figure out what is inside of an atom and how do they work?</p>
+<p><div class=indent>
+
+
+In the 1930's a person named <b>Ernest Lawrence</b> created the first partical accelerator.<br> The partical accelerator is used for discovering 
+<abbr title="smaller particals that make up protons and nutrons"><u>quarks</u></abbr>.Partical accelerators move the small<br> group of atoms 11,000 circuits per second
+</p></div>
+
+</div>
+<div class="row">
+  <div class="column">
+    <img src="H:\html\partical accelerators.html\gif.gif" alt="how it works" style="width:110%">
+  </div>
+  
+  <div class="column">
+    <img src="pc.jfif" style="width:75%">
+  </div>
+  <div class="column">
+  <img src="download.jfif" alt="cern particle accelerator" style="width:75%">
+  
+  </div>
+</div>
+
+<div class="indent"> 
+<p>Now how do they work. Partical accelerators use pole changing magnets to accelerate the <br><abbr title="particals that make up an atom">
+sub attomic particals</abbr> allmost to the <abbr title="299 792 458 meters per seccond">speed of light</abbr> and try to smash the particals 
+together. When they<br> shash the sub atomic particals together the quarks go diffrent ways and thats how they discover the <br>quarks, for example Up, Down, Top, 
+Bottom, Strange, and Charm.</div>
+<div class="indent">
+<p>
+
+</p>
+</div>
+
+
+
+<!---dont go past this line pleese--->  
+</div>
+<br>
+<br>
+<br>
+<form action="/action_page.php">
+  <p>Did you like this presentation?:</p>
+  <input type="radio" id="no" name="fav_language" value="no">
+  <label for="html">yes
+</label><br>
+  <input type="radio" id="yes" name="fav_language" value="yes">
+  <label for="css">no</label><br>
+  
+<br>
+<br>
+<br>
+
+<h4>bibliography</h4>
+<a href="https://home.cern/science/accelerators/how-accelerator-works">home.cern/science/accelerators/how-accelerator-works</a>
+<br><br><br><a class="size" href="#top">back to top</a>
+	</body>
+
+
+
+</html>
